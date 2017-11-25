@@ -1,10 +1,14 @@
+Note: to go back to the Wiki, click http://wiki.plexguide.com
+
 <p align="center">
   <img src="https://github.com/Admin9705/PlexGuide.com-The-Awesome-Plex-Server/blob/Version-4/scripts/plexguide.PNG" alt="PlexGuide.com Logo"/>
 </p>
 
-## Instructions
+## Sponsored
 
-Note:  Easily fix the upload limit issue in your Wordpress docker container!
+Part of the http://PlexGuide.com instructions which utilize all docker containers.
+
+## Instructions
 
 - Go to http://ipv4address:9000 (your portainer install)
 - [Click] Containers > [Click] Wordpress > [Click] >_Console [Click] Connect
