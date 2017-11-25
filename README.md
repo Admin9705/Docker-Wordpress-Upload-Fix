@@ -43,3 +43,5 @@ cp php.ini ..
 - Look for your Wordpress Container
 - Click - Restart
 - You will now be able to upload themes that exceed 2MB
+
+Note: to go back to the Wiki, click http://wiki.plexguide.com
