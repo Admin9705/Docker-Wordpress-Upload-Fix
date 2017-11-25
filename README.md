@@ -11,31 +11,31 @@ Note:  Easily fix the upload limit issue in your Wordpress docker container!
 
 Type the following:
 
-'''sh
+```sh
 apt-get update
 agt-get install nano
 cd /usr/local/etc/php/conf.d/
 nano php.ini
-'''
+```
 
 Copy this into the php.ini document:
 
-'''sh
+```sh
 file_uploads = On
 memory_limit = 64M
 upload_max_filesize = 64M
 post_max_size = 64M
 max_execution_time = 600
-'''sh
+```
 
 Press CTRL + X to Save and then exit and finally type the following
 
-'''sh
+```sh
 cp php.ini ..
-'''sh
+```
 
-- [Click] Disconnect up Top
-- [Click] Container List on Left or the Server Icon (3rd/4th on Down)
+- Click - Disconnect up Top
+- Click - Container List on Left or the Server Icon (3rd/4th on Down)
 - Look for your Wordpress Container
-- [Click] and Restart
+- Click - Restart
 - You will now be able to upload themes that exceed 2MB
