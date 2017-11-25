@@ -2,7 +2,7 @@
   <img src="https://github.com/Admin9705/PlexGuide.com-The-Awesome-Plex-Server/blob/Version-4/scripts/plexguide.PNG" alt="PlexGuide.com Logo"/>
 </p>
 
-# Docker Wordpress Upload Fix
+## Instructions
 
 Note:  Easily fix the upload limit issue in your Wordpress docker container!
 
