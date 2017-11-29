@@ -1,4 +1,4 @@
-Note: to go back to the Wiki, click http://wiki.plexguide.com
+**Donation Help** - Visit http://HexaBot.us to Compound 20 Percent Weekly on your CryptoCoins!
 
 <p align="center">
   <img src="https://github.com/Admin9705/PlexGuide.com-The-Awesome-Plex-Server/blob/Version-4/scripts/plexguide.PNG" alt="PlexGuide.com Logo"/>
