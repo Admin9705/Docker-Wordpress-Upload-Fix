@@ -15,7 +15,7 @@ Type the following:
 
 ```sh
 apt-get update
-agt-get install nano
+apt-get install nano
 cd /usr/local/etc/php/conf.d/
 nano php.ini
 ```
