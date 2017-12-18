@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Admin9705/PlexGuide.com-The-Awesome-Plex-Server/blob/Version-4/scripts/plexguide.PNG" alt="PlexGuide.com Logo"/>
+  <img src="https://raw.githubusercontent.com/Admin9705/PlexGuide.com-The-Awesome-Plex-Server/Version-5/scripts/plexguide-logo5.PNG" alt="PlexGuide.com Logo"/>
 </p>
 
 ## Sponsored
