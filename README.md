@@ -1,3 +1,8 @@
+**Help Us - Help You!**
+- Click the Star in the Upper Right Corner to Further promote our Project on GitHub
+- Visit the PlexGuide Forum @ http://plexguide.com _(Please Help Our Forum Grow!)_
+- Purchase cryptocurriencies via http://binance.plexguide.com - Purchase Ripple!
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Admin9705/PlexGuide.com-The-Awesome-Plex-Server/Version-5/scripts/plexguide-logo5.PNG" alt="PlexGuide.com Logo"/>
 </p>
